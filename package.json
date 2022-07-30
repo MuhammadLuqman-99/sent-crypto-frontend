@@ -22,7 +22,7 @@
     "vite": "^2.8.0"
   },
   "resolve": {
-    "modules": ['node_modules'],
-    "extensions": ['.js', '.jsx', '.ts', '.tsx', ...]
+    "modules": "['node_modules']",
+    "extensions": "['.js', '.jsx', '.ts', '.tsx', ...]"
   },
 }
