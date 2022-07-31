@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 import App from "./App";
-import { TransactionsProvider } from "./context/TransactionsContext.jsx";
+import { TransactionsProvider } from "./context/TransactionContext.jsx";
 import "./index.css";
 
 ReactDOM.render(
